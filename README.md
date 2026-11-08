@@ -1,3 +1,9 @@
+<!-- elide-retirement:2026-11-08 -->
+> [!IMPORTANT]
+> **Archived by Elide.** Elide's fork of this project was retired on November 8, 2026 and is no longer maintained here. Its code, branches, and history remain available for reference. Upstream project: https://github.com/swiftwasm/uwasi.
+>
+> Explore our current projects: [myna](https://github.com/elide-dev/myna), [bemo](https://github.com/elide-dev/bemo), [trufflecel](https://github.com/elide-dev/trufflecel), [truffledata](https://github.com/elide-dev/truffledata), and [elide](https://github.com/elide-dev/elide).
+
 [![npm version](https://badge.fury.io/js/uwasi.svg)](https://badge.fury.io/js/uwasi)
 [![.github/workflows/test.yml](https://github.com/swiftwasm/uwasi/actions/workflows/test.yml/badge.svg)](https://github.com/swiftwasm/uwasi/actions/workflows/test.yml)
 
